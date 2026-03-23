@@ -1,10 +1,11 @@
-# Motor Guard 🏭⚡
+# Motor Guard 
 
 A comprehensive real-time motor health monitoring and anomaly detection application built with Flutter and MQTT for IoT communication. Motor Guard provides intelligent predictive maintenance insights to prevent motor failures and optimize industrial operations.
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Architecture](#architecture)
 - [Technology Stack](#technology-stack)
